@@ -1,6 +1,5 @@
 powershell -File ".\script.ps1"
 
-
 @echo off
 Title Kill and restart Explorer.exe and restore all the windows by Hackoo 2020
 Color 0A
